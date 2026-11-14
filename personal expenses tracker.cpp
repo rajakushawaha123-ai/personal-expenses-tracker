@@ -1,7 +1,3 @@
-?variant="standard" id="62841"}
-# Personal Expense Tracker – C++
-
-```cpp
 #include <iostream>
 #include <fstream>
 #include <vector>
